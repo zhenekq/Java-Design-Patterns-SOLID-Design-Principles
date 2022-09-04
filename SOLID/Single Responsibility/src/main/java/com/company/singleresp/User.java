@@ -1,17 +1,12 @@
 package com.company.singleresp;
 
-//User entity
 public class User {
 
     private String name;
-
     private String email;
-
     private String address;
 
-    public User() {
-
-    }
+    public User() {}
 
     public User(String name, String email, String address) {
         this.name = name;
