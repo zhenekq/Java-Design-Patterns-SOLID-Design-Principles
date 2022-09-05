@@ -6,7 +6,6 @@ import java.time.ZoneId;
 public class Message {
 
 	private String msg;
-	
 	private LocalDateTime timestamp;
 	
 	public Message(String msg) {
